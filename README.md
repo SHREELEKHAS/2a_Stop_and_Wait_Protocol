@@ -51,6 +51,14 @@ while True:
 ### PROBRAM:
 ![Screenshot 2024-03-10 190634](https://github.com/SHREELEKHAS/2a_Stop_and_Wait_Protocol/assets/149768910/b7c0f9a6-ae2a-4363-af52-3e3b5246bb61)
 
+
+
+
+
+
+
+
+
 ## OUTPUT:
 ![Screenshot 2024-03-10 190701](https://github.com/SHREELEKHAS/2a_Stop_and_Wait_Protocol/assets/149768910/3a769b48-5ebe-4501-acdb-ec824b4827e6)
 
